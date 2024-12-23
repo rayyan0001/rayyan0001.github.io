@@ -2,7 +2,7 @@
 title: "RShiny Dashboard - Australian Labor Force"
 description: |
   The purpose of this dashboard is to visualize and demonstrate the impact of different migration types    on the labor force.
-date: "2024-12-09"
+date: "2024-12-23"
 categories: [R, HTML, CSS]
 css: styles.css
 format:
